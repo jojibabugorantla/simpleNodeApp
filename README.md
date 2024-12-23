@@ -16,7 +16,11 @@ npm start --host 0.0.0.0
 If you’d like to help fix a bug, improve the code, or add a feature, you can submit a pull request (PR). Here's a simple guide to submitting a PR:
 
 **Fork the repository** and clone it to your local machine.
+
 **Create a new branch for your changes**. Use a descriptive name for your branch that reflects the nature of your changes (e.g., fix-typo, add-new-feature).
+
 **Make your changes** and ensure that your code follows the existing coding style and guidelines.
+
 **Test your changes** to make sure everything works as expected.
+
 **Submit a pull request** to the main repository, with a clear description of the changes you've made.
